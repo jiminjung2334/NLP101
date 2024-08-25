@@ -62,7 +62,7 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 | [딥러닝을 이용한 자연어 처리 ](https://www.edwith.org/deepnlp) | GRU로 유명한 조경현 교수님이 D2 캠퍼스에서 강의하신 자연어 처리 강의입니다. 딥러닝 지식에 대한 복습 이후, 자연어 처리를 개괄적으로 설명해주기 때문에 딥러닝 기본 지식이 선수 지식으로 필요합니다. |
 | [Neural Network Methods for NLP ](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) | Yoav Goldberg가 작성한 딥러닝을 이용한 자연어 처리 전문 서적입니다. 위트있는 설명으로 핵심을 잘 짚어주는 명서입니다. |
 | [Eisenstein's NLP Note](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) |  머신러닝을 이용한 자연어 처리 뿐 아니라 자연어 처리를 학습하기 위해 필요한 기본적인 언어학 지식을 함께 다루는 명서입니다. 본 Note를 기반으로 한 Eisenstein의 책 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843) 이 출간되었습니다. |
-| [CS224N ](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |  Stanford 대학의 자연어 처리 명강의입니다. 2019년 버전까지 나왔기 때문에 최신 트렌드까지 다룬다는 큰 장점이 있습니다. |
+| [CS224N ](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |  Stanford 대학의 자연어 처리 명강의입니다. 2023년 버전까지 나왔기 때문에 최신 트렌드까지 다룬다는 큰 장점이 있습니다. |
 | [CS224U ](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |  GLUE 벤치마크의 등장 이후 그 중요성이 한층 더해진 자연어 이해 강의입니다. CS224N 이후 수강하면 좋을 것 같아보이며, PyTorch로 과제를 제공한다는 점이 매력적입니다. |
 | [Natural Language Processing Seminar](https://www.youtube.com/playlist?list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr) | 자연어 처리 관련 연구로 유명한 워싱턴 대학교 Allen School의 자연어 처리 세미나 플레이 리스트입니다. 유명 연구진들이 여러 주제로 유익한 세미나를 진행합니다. |
 | [Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | fast.ai의 공동 설립자 Rachel Thomas가 진행하는 코드로 이해하는 자연어 처리 강의입니다. 강의를 듣다보면 Rachel Thomas가 내뿜는 Motivation에서 헤어나올 수 없게 됩니다. | 
